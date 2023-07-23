@@ -1,7 +1,11 @@
 //Question 1: Cumulative Multiple of an Array with exception handling
+//Description: Consider an Array with N number of integers.
+	
 //Sample input: arrNum = [5, 3, 4, 2, 0, 8]
 //Output:- arrNum = [5, 15, 60, 120, 0, 0]
+
 //java program
+
 import java.util.*;
 public class CumulativeMultiple {
 	public static void main(String[] args) {
