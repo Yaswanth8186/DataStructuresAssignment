@@ -1,3 +1,4 @@
+//Question 2: Find missing numbers in array
 //Description: Consider an array with N number of consecutive integers, in which few numbers are missing. Find and list down these missing numbers using Java.
 
 //Sample input: arrNum = {1, 2, 4, 5, 6}
